@@ -8,6 +8,8 @@ const links = [
   { href: "/", label: "Start" },
   { href: "/entdecken", label: "Entdecken" },
   { href: "/projekte", label: "Projekte" },
+  { href: "/blog", label: "Blog" },
+  { href: "/experimental", label: "Experimental" },
 ];
 
 export function Header() {
